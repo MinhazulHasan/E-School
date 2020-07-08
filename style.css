@@ -1,0 +1,134 @@
+body {
+    font-family: 'Poppins';
+    overflow-x: hidden;
+}
+.top-part{
+    width: 100%;
+    background: #F0FFF0;
+}
+.nav-img{
+    height: 60px;
+    width: 198px;
+}
+.my-btn{
+    padding: 12px 36px;
+    background: #21B573;
+    border-radius: 33px;
+    color: #FFF;
+    border: none;
+}
+.nav-item{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+}
+.container{
+    margin-bottom: 50px;
+}
+#others{
+    margin-bottom: 0;
+}
+.container h1{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 70px;
+}
+.green-text{
+    color: #21B573;
+}
+.red-text{
+    color: #FD511A;
+}
+.gray-text{
+    color: #6C6B6B;
+}
+.topbar{
+    padding: 5px 15px;
+    margin-bottom: 50px;
+}
+
+/* Card */
+.box-content{
+    padding-top: 23%;
+}
+.box {
+    height: 270px;
+    width: 270px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    border: none;
+}
+.box:hover {
+    border: none;
+    background-color: white;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.1);
+}
+.box-img{
+    width: 65px;
+    height: 85px;
+}
+.icon{
+    margin-top: 50px;
+}
+h4{
+    font-weight: bold;
+    color: #413960;
+}
+.buy-courses{
+    padding: 8px 20px;
+    background: #21B573;
+    border-radius: 25px;
+    color: #FFF;
+    border: none;
+}
+.card-img-top{
+    padding: 20px;
+}
+h2{
+    font-weight: bold;
+    color: #413960;
+    margin-bottom: 50px;
+}
+.course{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px #b3b2b6;
+}
+.testimonial-header{
+    text-align: center;
+    font-weight: bold;
+}
+.testimonial{
+    padding: 50px;
+}
+.social-icon a img {
+    width: 50px;
+}
+footer{
+    background-color: #212027;
+}
+.conclusion{
+    display: flex;
+    justify-content: flex-end;
+}
+.categories{
+    width: 300px;
+    height: 250px;
+    color: white;
+    padding: 25px;
+}
+.paragraph{
+    flex: 1;
+}
+footer p{
+    color: white;
+    margin-bottom: 0;
+}
+.theMan{
+    height: 160px;
+    width: 160px;
+}
+.blank{
+    width: 75px;
+}
